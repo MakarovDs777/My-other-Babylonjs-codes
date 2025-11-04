@@ -20,6 +20,8 @@
 
 [Problem CSG2 №3 | Babylon.js Playground](https://playground.babylonjs.com/#AC12LU#0)
 
+[pitfalls foreplay | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#YY3GAN#0)
+
 Когда двигается камера то шарики телепортируются в случайные места а когда останавливается все шарики останавливаются.
 
 [Samoprostranstvie balls miniature version | Babylon.js Playground](https://playground.babylonjs.com/#4HXCUK)
