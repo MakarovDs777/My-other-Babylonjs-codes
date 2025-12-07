@@ -1,5 +1,6 @@
 # My-other-Babylonjs-codes
 
+
 Пьянный LOD когда двигается камера то прогружается не в том месте где камера.
 
 [Drunk LOD | Babylon.js Playground](https://playground.babylonjs.com/#AW3A9Q#0)
@@ -7,6 +8,8 @@
 Вы когда-нибудь смотрели на прозрачную воду бегущего ручья и удивлялись тому, как камни, растения и животные словно колышутся и изгибаются в волнах? Именно это и воссоздаёт данный шейдер.
 
 [Wellen-Shader demo cut version | Babylon.js Playground](https://playground.babylonjs.com/#KIHXAC#0)
+
+[The hell of images | Babylon.js Playground](https://playground.babylonjs.com/#797JF5#0)
 
 [solved the problem with CSG2 for OBJ structures (endless version) | Babylon.js Playground](https://playground.babylonjs.com/#ZIRO94#0)
 
