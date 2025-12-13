@@ -1,7 +1,5 @@
 # My-other-Babylonjs-codes
 
-[Procedural Geoid Generator | Babylon.js Playground](https://playground.babylonjs.com/#ZAGYW4)
-
 Пьянный LOD когда двигается камера то прогружается не в том месте где камера.
 
 [Drunk LOD | Babylon.js Playground](https://playground.babylonjs.com/#AW3A9Q#0)
