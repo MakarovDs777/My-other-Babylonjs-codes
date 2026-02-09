@@ -27,3 +27,5 @@
 Когда двигается камера то шарики телепортируются в случайные места а когда останавливается все шарики останавливаются.
 
 [Samoprostranstvie balls miniature version | Babylon.js Playground](https://playground.babylonjs.com/#4HXCUK)
+
+[Lopenurum | Babylon.js Playground](https://playground.babylonjs.com/#8RXDTN)
