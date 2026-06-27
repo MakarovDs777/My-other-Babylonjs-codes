@@ -29,3 +29,5 @@
 [Samoprostranstvie balls miniature version | Babylon.js Playground](https://playground.babylonjs.com/#4HXCUK)
 
 [Lopenurum | Babylon.js Playground](https://playground.babylonjs.com/#8RXDTN)
+
+[$R1HM19K | Babylon.js Playground](https://playground.babylonjs.com/#HFUBF7)
