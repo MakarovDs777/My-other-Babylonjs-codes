@@ -31,3 +31,5 @@
 [Lopenurum | Babylon.js Playground](https://playground.babylonjs.com/#8RXDTN)
 
 [$R1HM19K | Babylon.js Playground](https://playground.babylonjs.com/#HFUBF7)
+
+[GlitchCube3D | Babylon.js Playground](https://playground.babylonjs.com/#H90KPQ)
