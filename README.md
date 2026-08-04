@@ -1,6 +1,6 @@
 # My-other-Babylonjs-codes
 
-Пьянный LOD когда двигается камера то прогружается не в том месте где камера.
+Пьяный LOD когда двигается камера то прогружается не в том месте где камера.
 
 [Drunk LOD | Babylon.js Playground](https://playground.babylonjs.com/#AW3A9Q#0)
 
@@ -16,7 +16,7 @@
 
 [Problem CSG2 №3 | Babylon.js Playground](https://playground.babylonjs.com/#AC12LU#0)
 
-Челендж пробежаться по падающим зданиям...
+Челлендж пробежаться по падающим зданиям...
 
 [Rain of falling buildings (；一_一) | Babylon.js Playground](https://playground.babylonjs.com/#37N3RJ#0)
 
@@ -33,3 +33,7 @@
 [$R1HM19K | Babylon.js Playground](https://playground.babylonjs.com/#HFUBF7)
 
 [GlitchCube3D | Babylon.js Playground](https://playground.babylonjs.com/#H90KPQ)
+
+Всё время забываю убирать эти дебильнеы блески с поверхностей не я создавал эти шашки только убрал блески с поверхности.
+
+[Checkers full version | Babylon.js Playground](https://playground.babylonjs.com/#8WQW8F#0)
