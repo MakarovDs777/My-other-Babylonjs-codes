@@ -37,3 +37,5 @@
 Всё время забываю убирать эти дебильнеы блески с поверхностей не я создавал эти шашки только убрал блески с поверхности.
 
 [Checkers full version | Babylon.js Playground](https://playground.babylonjs.com/#8WQW8F#0)
+
+[FDWD4547GHJ | Babylon.js Playground](https://playground.babylonjs.com/#1OZ1KP)
