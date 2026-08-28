@@ -39,3 +39,5 @@
 [Checkers full version | Babylon.js Playground](https://playground.babylonjs.com/#8WQW8F#0)
 
 [FDWD4547GHJ | Babylon.js Playground](https://playground.babylonjs.com/#1OZ1KP)
+
+[Methane dance floor | Babylon.js Playground](https://playground.babylonjs.com/#8C4ZYI)
