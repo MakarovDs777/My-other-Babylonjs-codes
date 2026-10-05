@@ -43,3 +43,5 @@
 [Methane dance floor | Babylon.js Playground](https://playground.babylonjs.com/#8C4ZYI)
 
 [EDAF123J98K23 | Babylon.js Playground](https://playground.babylonjs.com/#EWHSH3)
+
+[EDAF123Q98K23 | Babylon.js Playground](https://playground.babylonjs.com/#OR00FF)
